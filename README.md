@@ -28,8 +28,8 @@ This is a beginner level challenge, doesn't have that much going on when transit
 
 ### Links
 
-- Github Repo: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Github Repo: [Github](https://github.com/munyite001/profile-card-component)
+- Live Site URL: [Netlify](https://profile-card-component-frm.netlify.app/)
 
 ## My process
 

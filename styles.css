@@ -84,6 +84,7 @@ main {
     justify-content: center;
     align-items: center;
     background-color: var(--dark-cyan);
+    overflow: hidden;
 }
 
 /* Background-patterns */
